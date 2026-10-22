@@ -37,7 +37,7 @@ python paresImpares.py
 Para testar o exercício de variáveis de ambiente:
 
 ```powershell
-pip install python-dotenv
+pip install -r requirements.txt
 ```
 
 Crie um arquivo local chamado `.env` com o conteúdo de **exemplo**:
